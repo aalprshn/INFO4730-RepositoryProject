@@ -1,3 +1,0 @@
-INFO 4730 – Repository Project (Part B)
-This repository demonstrates how GitHub can be used as a digital repository system.
-Files included: a sample dataset (CSV), a simple image (PNG), and this description file (TXT).
